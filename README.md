@@ -1,6 +1,6 @@
 # git_application
 Full Stack NANO DEGREE PROJECT
-Name:A.L.NARENDRA KUMAR
-Rollno:17471A0521
+NAME:-A.L.NARENDRA KUMAR
+ROLL NO:-17471A0521
 2nd year 
 cse
